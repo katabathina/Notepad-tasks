@@ -1,0 +1,137 @@
+
+Wipro 
+
+===========
+
+1. Ansible Architecture and how its work?
+2. What are the main advantages using ansible?
+3. How will access list of ansible variables ( Thruogh command line )
+4. What is Ansible galaxy? what it differs?
+5. How will connect nodes to ansible? (Thruogh command line)
+6. What is Playbook? and what content?
+7. What is the format for playbook?
+
+1. Explain Chef Architecture?
+2. What is the Recipe?
+3. How will differentiate with recipe and cookbook?
+4. What is the default action in chef?
+5. What is the commnad upload cookbook in chef-server?
+
+1. How will find the java process?
+2. What is the purpose of export command?
+3. I have a file and i want to get only third column from the file?
+4. How will change the permissons for file?
+5. What are the different file types?
+6. Permissions type?
+
+
+1. How will do the things in crontab?
+2. I want to create a perticular job in jenkin, how you can achieve?
+3. What is pipe line?
+4. What is the main file in Maven?
+5. What are the scope types in maven?
+6. What is artfactory?
+
+1. What are the cloud service model?
+2. Route 53 policies?
+3. What is the purpose fo cloudwatch?
+4. What is the structure of  vpc and subnet?
+5. How will create IAM role? how will create policies in  IAM?
+6. Can you differentiate scalability and elacity?
+7. What is Autoscaling?
+8. What is the differece bitween vertical and horizontal scaling?
+
+
+========================================================================
+
+
+Ricoh:- 
+
+========
+
+1. Write a script find the users exist or not?
+2. Write a playbook install apache ,mysql and start--->
+   if already install not required to install and start the service.
+3. Daily responsibilty
+4. If application down/Slow what you will do?
+5. How to create vpc?
+6. Why you are maintaing dev,test,pre-pro and producion environments?
+7. Intially while creating rds you are not required automatic backup by aws.
+   later i want automatic backup how you will do?
+8. Do you know networking?
+9. Which aws account you have?
+10. Whichhich purpose your using root account?
+
+
+========================================================================
+
+HP:-
+
+==========
+
+1. In a file i hava 20 lines and 2 lines were duplicate how you will delete thruogh script?
+2. My jenkins is in windows box how you will deploy a file to linux nodes?
+3. Write a script to deploy a file to servers and after that restart , I have to know the status as well.
+4. How you will copy files from windows to linux? without filezilla or winscp?
+5. How you will migrate svn code into github repository?
+6. How to find 100 GB files and delete.
+7. How to deploy a file to specific nodes.
+8. Have you integrated jenkins with chef/ansible.
+9. What is the artfacts?
+
+===================================================================
+
+NTT Data:-
+
+=============
+1. What is Devops?
+2. What is your role?
+3. I have 10 Developers, if i hire you as devops engineer what will you do?
+4. what is vpc?
+5. how you will get the issues?
+6. what is the difference b/w ansible and chef?
+7. why your using both ansbile and chef?
+8. how it will work jenkins?
+9. What is pipeline?
+10. how to you will create a pipeline?
+11. can you explain the build process?
+12. how you will do deployments in you environment?
+13. What are the issues you faces in build failure?
+14. What type of jobs you build?
+15. Can you monitor jobs through monitoring tool?
+
+============================
+
+Neustar Data labs:-
+
+================== 
+1. What is the difference b/w ebs and s3?
+2. how you create a file system?
+3. what is top commnad and what are the parameters will come and explain it?
+4. I have a file and how will replace a perticular key word?
+5. how you will create heap dumps?
+6. Apache ssl process?
+7. What is vpc?
+8. what is the differencd b/w public and private subnet?
+9. how you will change private subnet as public subnet?
+10. Write a playbook to copy files from local system to remote system , in remote system compile
+    all files and create a jar file and copy to local system.
+11. Write a shell script to copy files from local system to remote system , in remote system compile
+    all files and create a jar file and copy to local system.
+12. I have a file with 100 lines and how you will display 50th to 60 line.
+13. I attached a volume with 100 gb, how you will create a /mnt/temp-70gb remaining 30gb /mnt/sample.
+14. What is CI/CD?
+15. Tomcat installation process?
+16. what is the difference b/w ansible and chef?
+17. How you will mount s3 bucket to ec2 machine?
+
+============================================
+
+Neno soft solution:
+====================
+1. Can write cookbook for apache installation and start.
+2. create a one private and one public subnet in vpc, after that install ansible and write a playbook
+  to intall apache.
+
+==============================================
+
