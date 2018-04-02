@@ -8,6 +8,9 @@ What is .htaccess?
 that can be used to modify the Apache configuration without needing to edit the Apache configuration files. 
 The following sections describe how to create this configuration and use it to restrict directory listings and IP addresses, and to handle redirects.
 
+No one can have have access the websites..Expect the user who have the password for it.
+This file allows to access the site using credentials.
+
 ======================
 What is directory indexing?
 
